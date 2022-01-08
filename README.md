@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @franciscocasillas
 - 👀 I’m interested in coding and music
-- 🌱 I’m currently learning HTML and CSS
-- 💞️ I’m looking to collaborate on all sorts of fun project
+- 🌱 I’m currently learning the Foundations section of The Odin project
+- 💞️ I’m looking to collaborate on all sorts of fun projects
 - 📫 You can reach me at lucanocasillas@gmail.com
 
 <!---
