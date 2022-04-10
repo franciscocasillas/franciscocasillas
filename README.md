@@ -5,6 +5,7 @@
 - 💞️ I'd love to collaborate on all sort of projects, especially the good looking ones
 - 💼 You can check my portfolio at https://franciscocasillas.github.io/portfolio/
 - 📫 You can reach me at chiccasillas@gmail.com
+- 🐤 Follow me on twitter as @chiccasillas
 
 <!---
 franciscocasillas/franciscocasillas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
