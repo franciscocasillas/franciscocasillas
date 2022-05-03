@@ -25,12 +25,37 @@
 
 - 👨‍💻 I'm a Full Stack Software Engineer with a background in Audiovisual Communications
 - 🎨 I design and build websites and web applications
-- 👀 I’m specially interested in coding, graphic design and music
+- 👀 My three passions are coding, graphic design and songwriting
 - 🌱 I'm currently part of #100devs learning Object Oriented Programming
 - 🤝 I'd love to collaborate on all sort of fun projects, especially the good looking ones
 - 📫 You can reach me at chiccasillas@gmail.com
 
+---
+  ### Languages and Tools:
+  <div>
+    <h4>Coding Tools</h4>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo"/>
+  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3 Logo"/>
+    <img width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript Logo"/>
+    <br>
+    <h4>Design Tools</h4>
+<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" alt="Sketch"/>
+  <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" />
+    <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop"/>
+    <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator"/>
+<img  width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Adobe Premiere"/>
 
+                                                                                                            
+
+    
+
+
+    
+  </div>
+
+  
+
+  
 <!---
 franciscocasillas/franciscocasillas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
