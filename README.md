@@ -1,7 +1,7 @@
-<div id="header">
+<div align="center" id="header">
   <img width="100" src="https://media2.giphy.com/media/xT8qB5qHdt8odL797i/giphy.gif?cid=790b761162f424d6b90a88f39b76e143a3c7ce471fb8ff4b&rid=giphy.gif&ct=g">
 </div>
-<div id="badges">
+<div align="center" id="badges">
   <a href="https://franciscocasillas.github.io/portfolio/index.html">
       <img src="https://img.shields.io/badge/Portfolio-ff69b4?style=flat&logo=home&logoColor=white" alt="Webpage Badge"/>
   <a href="https://www.linkedin.com/in/chiccasillas/">
