@@ -23,7 +23,7 @@
   ---
   ### About Me
 
-- 👨‍💻 I'm a Full Stack Software Engineer with a background in Audiovisual Communications
+- 👨‍💻 I'm a Full Stack Software Engineer with a background in audiovisual production
 - 🎨 I design and build websites and web applications
 - 👀 My three passions are coding, graphic design and songwriting
 - 🌱 I'm currently part of #100devs learning Object Oriented Programming
