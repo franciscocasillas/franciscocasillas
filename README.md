@@ -23,7 +23,7 @@
   ---
   ## About Me
 
-- 👨‍💻 I'm a Full Stack Software Engineer with a background in audiovisual production
+- 👨‍💻 I am a Full Stack Software Engineer with a background in audiovisual production
 - 🎨 I design and build websites and web applications
 - 👀 My three passions are coding, graphic design and songwriting
 - 🌱 I'm currently part of #100devs learning Object Oriented Programming
@@ -32,6 +32,7 @@
 
 ---
   ## Languages and Tools:
+ 
   <div>
     <h4>Coding Tools</h4>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo"/>
@@ -45,6 +46,7 @@
     <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator"/>
 <img  width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Adobe Premiere"/>
   </div>
+ 
   
 ---  
 ## Project Snapshots
@@ -63,9 +65,16 @@
   
 <img width="1437" alt="Screen Shot 2022-05-06 at 12 03 21" src="https://user-images.githubusercontent.com/17735860/167179044-8dbb1943-5f15-4689-aff3-2ffa85322cfa.png">
 
-
-
-
+---
+  ## Fun facts
+  
+  - 🏅 I was national diving champion at age 14 
+  - 🎓 I graduated first in my class from college with honors 
+  - 👨‍💼 I was elected class president two years in a row
+  - 🎸 I play piano and guitar
+  - 📹 I have a YouTube video with more than 140k views
+  - 👄 I speak three languages fluently 🇪🇸🇬🇧🇮🇹 and am studying three more 🇫🇷🇩🇪🇰🇷
+ 
  
 
   
