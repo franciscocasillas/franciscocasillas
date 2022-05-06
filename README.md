@@ -21,7 +21,7 @@
   </div>
   
   ---
-  ### About Me
+  ## About Me
 
 - 👨‍💻 I'm a Full Stack Software Engineer with a background in audiovisual production
 - 🎨 I design and build websites and web applications
@@ -31,7 +31,7 @@
 - 📫 You can reach me at chiccasillas@gmail.com
 
 ---
-  ### Languages and Tools:
+  ## Languages and Tools:
   <div>
     <h4>Coding Tools</h4>
   <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo"/>
@@ -44,19 +44,31 @@
     <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop"/>
     <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator"/>
 <img  width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Adobe Premiere"/>
-
-                                                                                                            
-
-    
-
-
-    
   </div>
+  
+---  
+## Project Snapshots
+                                                                                                           
+<img width="1437" alt="Screen Shot 2022-05-06 at 12 04 40" src="https://user-images.githubusercontent.com/17735860/167179197-cad33e9d-1012-4ec8-be1b-7e831fde2ece.png">
+  <br>
+  <br>
+
+  <img width="1437" alt="Screen Shot 2022-05-06 at 12 01 33" src="https://user-images.githubusercontent.com/17735860/167178805-c7480d6b-eb26-4e71-94b2-73a4fc8d2167.png">
+  <br>
+  <br>
+
+  <img width="1437" alt="Screen Shot 2022-05-06 at 12 02 13" src="https://user-images.githubusercontent.com/17735860/167178940-79cf4c1a-2f67-4ef2-ba20-045a9aa7bb72.png">
+  <br>
+  <br>
+  
+<img width="1437" alt="Screen Shot 2022-05-06 at 12 03 21" src="https://user-images.githubusercontent.com/17735860/167179044-8dbb1943-5f15-4689-aff3-2ffa85322cfa.png">
+
+
+
+
+ 
 
   
 
   
-<!---
-franciscocasillas/franciscocasillas is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
