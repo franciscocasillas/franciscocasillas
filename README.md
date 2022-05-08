@@ -75,7 +75,19 @@
   - 📹 I have a YouTube video with more than 140k views
   - 👄 I speak three languages fluently 🇪🇸🇬🇧🇮🇹 and am studying three more 🇫🇷🇩🇪🇰🇷
  
- 
+ ---
+  ## 
+  
+  <div align="center">
+    Let's build something together! 
+    <br>
+    👇
+    <br>
+    <br>
+   <a href="mailto: chiccasillas@gmail.com">
+    <img src="https://img.shields.io/badge/Contact-Me-ff69b4?style=flat&logo=home&logoColor="white" alt="Contact Me"/>
+    </a>
+  </div>
 
   
 
