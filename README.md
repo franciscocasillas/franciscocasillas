@@ -75,11 +75,10 @@
   - 📹 I have a YouTube video with more than 140k views
   - 👄 I speak three languages fluently 🇪🇸🇬🇧🇮🇹 and am studying three more 🇫🇷🇩🇪🇰🇷
  
- ---
-  ## 
+---
   
   <div align="center">
-    Let's build something together! 
+    <b>Let's build something together!</b>
     <br>
     👇
     <br>
