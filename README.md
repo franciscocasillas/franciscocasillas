@@ -25,7 +25,7 @@
 
 - 👨‍💻 I am a Full Stack Software Engineer with a background in audiovisual production
 - 🎨 I design and build websites and web applications
-- 👀 My three passions are coding, graphic design and songwriting
+- 👀 My three passions are coding, visual arts and songwriting
 - 🌱 I'm currently part of #100devs learning Object Oriented Programming
 - 🤝 I'd love to collaborate on all sort of fun projects, especially the good looking ones
 - 📫 You can reach me at chiccasillas@gmail.com
@@ -35,16 +35,21 @@
  
   <div>
     <h4>Coding Tools</h4>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" alt="HTML5 Logo"/>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="CSS3 Logo"/>
-    <img width="33" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="Javascript Logo"/>
+  <img width="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/260px-HTML5_logo_and_wordmark.svg.png" alt="HTML5 Logo"/>
+  <img width="28" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/240px-CSS3_logo_and_wordmark.svg.png" alt="CSS3 Logo"/>
+    <img width="40" src="https://www.logotypes101.com/logos/531/E9BC19EB93F4FEA9236932ABAD8A7CFF/js.png" alt="Javascript Logo"/>
     <br>
-    <h4>Design Tools</h4>
-<img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sketch/sketch-original.svg" alt="Sketch"/>
-  <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" />
-    <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" alt="Adobe Photoshop"/>
-    <img width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" alt="Adobe Illustrator"/>
-<img  width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/premierepro/premierepro-original.svg" alt="Adobe Premiere"/>
+    <h4>Other Tools</h4>
+    <img width="31" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" />
+     <img width="33" src="https://cdn.serif.com/affinity/img/global/logos/affinity-designer-icon-090520190839.svg" alt="Affinity Designer"/>
+    <img width="33" src="https://cdn.serif.com/affinity/img/global/logos/affinity-photo-icon-090520190839.svg" alt="Affinity Designer"/>
+    <img width="35" src="https://www.adobe.com/content/dam/acom/one-console/icons_rebrand/ps_appicon.svg" alt="Adobe Photoshop" />
+    <img width="35" src="https://www.adobe.com/content/dam/cc/icons/illustrator.svg" alt="Adobe Illustrator" />
+    <img width="35" src="https://www.adobe.com/content/dam/cc/icons/premiere.svg" alt="Adobe Premiere" />
+    <img width="35" src="https://help.apple.com/assets/6169D386C62BCC4E874FA2D0/6169D39EC62BCC4E874FA2E0/en_US/97f5f4dfe6df84d78caacff68ec63538.png" alt="Final Cut Pro" />
+    <img width="37" src="https://help.apple.com/assets/61969817CE76B47A346B2B67/6196981BCE76B47A346B2B86/en_US/390711ce08c61bf054d3dc4dfb9080ae.png" alt="Logic Pro X" />
+     
+   
   </div>
  
   
