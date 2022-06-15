@@ -1,5 +1,4 @@
 <div align="center" id="header">
-  <img width="100" src="https://media2.giphy.com/media/xT8qB5qHdt8odL797i/giphy.gif?cid=790b761162f424d6b90a88f39b76e143a3c7ce471fb8ff4b&rid=giphy.gif&ct=g">
 </div>
 <div align="center" id="badges">
   <a href="https://franciscocasillas.github.io/portfolio/index.html">
@@ -16,7 +15,7 @@
   hey, there
 </h1>
   <div align="center">
-    <img width="600" src="https://media0.giphy.com/media/l46CynhaGJAyaLPEs/giphy.gif?cid=790b7611e6fe02702589f6773f07e3dfeb7a8694089eeba1&rid=giphy.gif&ct=g">
+
   </div>
   
   ---
