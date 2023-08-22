@@ -24,7 +24,7 @@
 - 👨‍💻 I am a Full Stack Software Engineer with a background in audiovisual production
 - 🎨 I design and build websites and web applications
 - 👀 My three passions are coding, visual arts and songwriting
-- 🌱 I'm currently part of #100devs learning Object Oriented Programming
+- 🌱 I'm currently studying Computer Systems Enginnering at college
 - 🤝 I'd love to collaborate on all sort of fun projects, especially the good looking ones
 - 📫 You can reach me at chiccasillas@gmail.com
 
